@@ -1,0 +1,28 @@
+{
+  "name": "social_network_server",
+  "version": "1.0.0",
+  "description": "singin, login, post",
+  "main": "Hanoi_tower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vahagn Shirinyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VShirinyan/Social-Network-Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VShirinyan/Social-Network-Server/issues"
+  },
+  "homepage": "https://github.com/VShirinyan/Social-Network-Server#readme"
+}
